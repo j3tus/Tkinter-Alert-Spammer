@@ -11,7 +11,7 @@ from PIL import ImageTk, Image
 App = Tk() 
 App.withdraw()
 App.iconbitmap(default='blank.ico')
-lab = Label(App, text='Window with transparent icon.')
+lab = Label(App, text='transparent icon')
 lab.pack()
 
 alertapp = Toplevel (App)
