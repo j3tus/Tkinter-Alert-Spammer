@@ -31,7 +31,7 @@ for i in range(25):
     print(f"{Fore.BLUE} Opened error message {Fore.YELLOW} {count} {Fore.RESET}")
     messagebox.showerror(title="Windows Update Standalone Installer", message="Windows Update Standalone Installer!\n\n Cannot find C:\Windows\System32: ")
     print(f"{Fore.BLUE}> Closed error message {Fore.RESET}")
-    time= decimal.Decimal(random.randrange(0, 4))/10
+    time= decimal.Decimal(random.randrange(0, 40))/10
     print(f"\n{Fore.WHITE} INFO: Next alert {time}s {Fore.RESET}")
     sleep(int(time))
     count = count + 1
