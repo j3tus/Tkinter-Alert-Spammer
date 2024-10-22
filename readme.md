@@ -13,9 +13,7 @@ A simple alert spammer using Python's Tkinter library.
 
 ## Usage
 1. Clone/download repo
-2. Run: `python alert_spammer.py`
-3. Enter message and number of alerts
-4. Click "Spam Alerts"
+2. Run: **python alerts.py**
 
 ## Disclaimer
 For educational purposes only. Use responsibly.
