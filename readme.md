@@ -1,5 +1,24 @@
-# Tkinker Alert Spammer
-This is a simple Alert spammer that used Tkinker python, feel free to use or fork and update this repo.
+# Tkinter Alert Spammer
 
-# NOTICE
-This is straight forward script dont need to contact me. (Goat#8888 discord if you need)
+A simple alert spammer using Python's Tkinter library.
+
+## Features
+- Create multiple alert windows
+- Customize messages
+- Set number of alerts
+
+## Requirements
+- Python 3.x
+- Tkinter
+
+## Usage
+1. Clone/download repo
+2. Run: `python alert_spammer.py`
+3. Enter message and number of alerts
+4. Click "Spam Alerts"
+
+## Disclaimer
+For educational purposes only. Use responsibly.
+
+## License
+MIT License
